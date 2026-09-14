@@ -84,6 +84,13 @@ The interactive Tableau dashboard provides a visual breakdown of Abhishek Sharma
 **Tableau Public:**  
 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/ramakrishnan.natarajan6833/viz/AbhishekSharma1stT20vsAFGbattinganalysis/Dashboard1?publish=yes)
 
+## Key Insights
+
+- Scored 82 runs from 32 balls at a strike rate of 256.3.
+- Scored 41 runs in the Powerplay at a strike rate of 273.3.
+- Scored 53 runs against spin at a strike rate of 265.0.
+- Hit 7 fours and 7 sixes during the innings.
+- Strongest scoring came against back-of-length deliveries outside off.
 ---
 
 ## Project Files
