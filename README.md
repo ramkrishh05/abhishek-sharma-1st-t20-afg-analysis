@@ -42,17 +42,6 @@ The analysis focuses on:
 
 ---
 
-## Key Insights
-
-- Scored **82 runs from 32 balls** at a strike rate of **256.3**
-- Hit **7 fours and 7 sixes**, contributing significantly to his scoring output
-- Analysed his scoring across different phases of the innings
-- Compared his performance against pace and spin
-- Identified the bowling line and length combinations where he was most effective
-- Examined his scoring zones and ball-by-ball scoring patterns
-
----
-
 ## Tools & Methodology
 
 ### Tools Used
