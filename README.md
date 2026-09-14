@@ -80,7 +80,7 @@ The interactive Tableau dashboard provides a visual breakdown of Abhishek Sharma
 - Scoring zones
 
 **Tableau Public:**  
-Add your Tableau Public dashboard link here
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/ramakrishnan.natarajan6833/viz/AbhishekSharma1stT20vsAFGbattinganalysis/Dashboard1?publish=yes)
 
 ---
 
