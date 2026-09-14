@@ -70,6 +70,8 @@ Delivery-level data was analysed to identify scoring patterns across different p
 
 ## Tableau Dashboard
 
+![Abhishek Sharma 1st T20 vs Afghanistan - Batting Analysis](abhishek-sharma-1st-t20-afg-analysis.png)
+
 The interactive Tableau dashboard provides a visual breakdown of Abhishek Sharma's innings, including:
 
 - Overall performance
