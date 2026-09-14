@@ -1,85 +1,113 @@
 # Abhishek Sharma – 1st T20 vs Afghanistan | Batting Analysis
 
-##  About the Project
+## Author
 
-This project presents a ball-by-ball analysis of Abhishek Sharma's batting performance in the 1st T20I between India and Afghanistan in 2026.
-
-The analysis uses delivery-level cricket data to understand how Abhishek scored his runs, how he performed across different phases, and which bowling conditions and scoring areas contributed to his innings.
+**Ramakrishnan Natarajan**  
+R5 Cricket Performance Lab
 
 ---
 
-##  Objective
+## About the Project
 
-The objective of this analysis was to move beyond the basic scorecard and understand Abhishek Sharma's batting performance from a tactical and data-driven perspective.
+This project presents a ball-by-ball T20 batting analysis of Abhishek Sharma's performance in the 1st T20I between India and Afghanistan in 2026.
+
+The analysis goes beyond the basic scorecard to understand how the runs were scored, when they were scored, and which bowling conditions and scoring areas contributed to the innings.
+
+---
+
+## Match Performance
+
+| Metric | Performance |
+|---|---:|
+| Runs | **82** |
+| Balls | **32** |
+| Strike Rate | **256.3** |
+| Boundaries | **14** |
+| Fours | **7** |
+| Sixes | **7** |
+
+---
+
+## Analysis Areas
 
 The analysis focuses on:
 
-**Runs → Balls → Strike Rate → Phase → Bowling Type → Line × Length → Scoring Zones**
+- Scoring by phase
+- Run distribution
+- Pace vs spin
+- Bowling line
+- Bowling length
+- Line × length
+- Scoring zones
 
 ---
 
-##  What I Analysed
+## Key Insights
 
-- Overall batting performance
-- Runs and balls faced
-- Strike rate
-- Boundary profile
-- Scoring by batting phase
-- Powerplay vs Middle Overs
-- Pace vs Spin
-- Runs scored against different bowling conditions
-- Scoring zones based on line and length
-- Ball-by-ball scoring patterns
+- Scored **82 runs from 32 balls** at a strike rate of **256.3**
+- Hit **7 fours and 7 sixes**, contributing significantly to his scoring output
+- Analysed his scoring across different phases of the innings
+- Compared his performance against pace and spin
+- Identified the bowling line and length combinations where he was most effective
+- Examined his scoring zones and ball-by-ball scoring patterns
 
 ---
 
-##  Key Findings
+## Tools & Methodology
 
-The dashboard helps identify:
+### Tools Used
 
-- Abhishek's scoring rate and boundary contribution
-- How he accumulated runs across different phases
-- His scoring efficiency against pace and spin
-- His preferred scoring areas based on bowling line and length
-- The types of deliveries that contributed most to his scoring
-- His overall attacking approach during the innings
+- Tableau
+- Ball-by-ball cricket data
+- Data visualization
+- Performance analysis
 
----
+### Methodology
 
-## 📈 Tableau Dashboard
-
-An interactive Tableau dashboard was created to present the analysis visually.
-
-👉 **[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/ramakrishnan.natarajan6833/viz/AbhishekSharma1stT20vsAFG)**
+Delivery-level data was analysed to identify scoring patterns across different phases, bowling types, lines, lengths and scoring zones.
 
 ---
 
-##  Dashboard Preview
+## Tableau Dashboard
 
-![Abhishek Sharma 1st T20 Analysis](Abhishek%20Sharma%201st%20T20%20Analysis.png)
+The interactive Tableau dashboard provides a visual breakdown of Abhishek Sharma's innings, including:
+
+- Overall performance
+- Phase-wise scoring
+- Run distribution
+- Pace vs spin
+- Line × length analysis
+- Scoring zones
+
+**Tableau Public:**  
+Add your Tableau Public dashboard link here
 
 ---
 
-##  Tools Used
+## Project Files
 
-- **Tableau Public** – Data visualization and interactive dashboard
-- **Ball-by-ball cricket data** – Delivery-level performance analysis
-- **Data analysis** – Performance and tactical analysis
-- **GitHub** – Project documentation and portfolio
+- `Abhishek Sharma 1st T20 vs AFG batting analysis.twbx` — Tableau workbook
+- `README.md` — Project documentation
 
 ---
 
-##  What I Learned
+## Objective
 
-This project helped me understand how ball-by-ball cricket data can be used to analyse a player's performance beyond traditional scorecard statistics.
+The objective of this project was to use ball-by-ball data to understand Abhishek Sharma's batting approach and identify the bowling conditions and scoring areas where he was most effective.
 
-I explored how:
+The analysis focuses on:
 
-**Bowling Condition → Line → Length → Execution → Scoring Outcome**
+**Bowling Type → Line → Length → Scoring Outcome → Runs → Strike Rate**
 
-can be connected to understand a batter's tactical approach.
+---
 
-The project also helped me improve my skills in building interactive Tableau dashboards and presenting cricket performance data in a simple and visual format.
+## What I Learned
+
+This project helped me explore how ball-by-ball cricket data can be used to analyse a batter beyond traditional scorecard statistics.
+
+I worked with delivery-level data to understand scoring phases, pace versus spin performance, and line-length scoring patterns.
+
+The project also helped me improve my approach to building interactive Tableau dashboards and presenting cricket performance data in a simple and visual format.
 
 ---
 
@@ -88,14 +116,3 @@ The project also helped me improve my skills in building interactive Tableau das
 **Ramakrishnan Natarajan**
 
 Cricket Analytics | Performance Analysis | Data Analytics
-
-[GitHub Profile](https://github.com/ramkrishh05)
-
-## 📁 Project Structure
-
-```text
-abhishek-sharma-1st-t20-afg-analysis/
-│
-├── README.md
-├── Abhishek Sharma 1st T20 Analysis.twbx
-└── Abhishek Sharma 1st T20 Analysis.png
